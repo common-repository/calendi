@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-08-24 18:26+0100\n"
+"PO-Revision-Date: 2018-08-24 18:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr_x;esc_html_x;"
+"_ex\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: build/calendi.php:76 calendi.php:76
+msgid "You don't have sufficient access to this page."
+msgstr "You don’t have sufficient access to this page."
+
+#: build/functions.php:11 functions.php:11
+msgid "Sunday"
+msgstr "Sunday"
+
+#: build/functions.php:12 functions.php:12
+msgid "Monday"
+msgstr "Monday"
+
+#: build/functions.php:13 functions.php:13
+msgid "Tuesday"
+msgstr "Tuesday"
+
+#: build/functions.php:14 functions.php:14
+msgid "Wednesday"
+msgstr "Wednesday"
+
+#: build/functions.php:15 functions.php:15
+msgid "Thursday"
+msgstr "Thursday"
+
+#: build/functions.php:16 functions.php:16
+msgid "Friday"
+msgstr "Friday"
+
+#: build/functions.php:17 functions.php:17
+msgid "Saturday"
+msgstr "Saturday"
+
+#: build/functions.php:96 functions.php:96
+msgid "Draft"
+msgstr "Draft"
+
+#: build/functions.php:99 functions.php:99
+msgid "Pending"
+msgstr "Pending"
+
+#: build/functions.php:102 functions.php:102
+msgid "Scheduled"
+msgstr "Scheduled"
+
+#: build/functions.php:105 functions.php:105
+msgid "Private"
+msgstr "Private"
+
+#: build/functions.php:119 functions.php:119
+msgid "Edit"
+msgstr "Edit"
+
+#: build/functions.php:123 functions.php:123
+msgid "Trash"
+msgstr "Bin"
+
+#: build/functions.php:127 functions.php:127
+msgid "View"
+msgstr "View"
+
+#: build/functions.php:210 functions.php:210
+msgid "January"
+msgstr "January"
+
+#: build/functions.php:211 functions.php:211
+msgid "February"
+msgstr "February"
+
+#: build/functions.php:212 functions.php:212
+msgid "March"
+msgstr "March"
+
+#: build/functions.php:213 functions.php:213
+msgid "April"
+msgstr "April"
+
+#: build/functions.php:214 functions.php:214
+msgid "May"
+msgstr "May"
+
+#: build/functions.php:215 functions.php:215
+msgid "June"
+msgstr "June"
+
+#: build/functions.php:216 functions.php:216
+msgid "July"
+msgstr "July"
+
+#: build/functions.php:217 functions.php:217
+msgid "August"
+msgstr "August"
+
+#: build/functions.php:218 functions.php:218
+msgid "September"
+msgstr "September"
+
+#: build/functions.php:219 functions.php:219
+msgid "October"
+msgstr "October"
+
+#: build/functions.php:220 functions.php:220
+msgid "November"
+msgstr "November"
+
+#: build/functions.php:221 functions.php:221
+msgid "December"
+msgstr "December"
+
+#: build/includes/options-page.php:53 includes/options-page.php:53
+msgid "Content has been successfully deleted."
+msgstr "Content has been successfully deleted."
+
+#: build/includes/options-page.php:66 includes/options-page.php:66
+msgid "Today"
+msgstr "Today"
+
+#: build/includes/options-page.php:111 includes/options-page.php:111
+msgid "Post Types..."
+msgstr "Post Types…"
+
+#: build/includes/options-page.php:118 includes/options-page.php:118
+msgid "Enable"
+msgstr "Enable"
